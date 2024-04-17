@@ -1,3 +1,6 @@
+# Donate
+https://flutterwave.com/donate/owbkr5asntut
+
 # Data Decoded Series
 
 Welcome to the Data Decoded Series! This series aims to provide an introduction to data science concepts and techniques, catering to beginners and enthusiasts alike. Whether you're just starting your journey in the world of data science or looking to expand your knowledge, this series will cover essential topics to help you understand and apply key concepts.
